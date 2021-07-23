@@ -7,5 +7,7 @@ Then, run "chmod +x test.sh" to make the shell script executable and run the she
 Check the 'results_pwnedpasswords.txt' file to see which hash has been compromised and how many times.
 
 Dependencies: 
+
 Java (I tested it on 12 and it works)
+
 grep (preinstalled for most Linux distributions)
