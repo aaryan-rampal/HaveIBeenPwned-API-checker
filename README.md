@@ -1,4 +1,5 @@
-Make a file named 'input.txt' with the SHA-1 hash of the passwords you'd like to check. Put only one hash on one line and don't leave any trailing spaces.
-Compile and run 'MakeFile.java'. 
-Then, run "chmod +x test.sh" to make the shell script executable and run the shell script.
-Check the 'results_pwnedpasswords.txt' file to see which hash has been compromised and how many times.
+Compile and run 'Makefile.java' using the following command: javac MakeFile.java && java MakeFile.java
+
+Run the 'a.sh' bash file using the following command: ./a.sh
+
+The contents of the databse containing your password will be outputted to the terminal. 
