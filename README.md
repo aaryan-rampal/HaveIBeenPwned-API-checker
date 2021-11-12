@@ -2,9 +2,9 @@
 
 Compile and run 'Makefile.java' using the following command: javac MakeFile.java && java MakeFile.java
 
-Make the 'a.sh' bash file executable: chmod +x a.sh
+Make the 'find_compromises.sh' bash file executable: chmod +x find_compromises.sh 
 
-Run the bash file: ./a.sh
+Run the bash file: ./find_compromises.sh
 
 The contents of the databse containing your password will be outputted to the terminal. 
 
